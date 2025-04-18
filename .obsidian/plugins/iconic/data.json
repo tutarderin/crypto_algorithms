@@ -1,0 +1,312 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "on",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "CyberSecurity": {
+      "icon": "⚠️",
+      "unsynced": [
+        "62b96c668deaf32d"
+      ]
+    },
+    "CyberSecurity/COMMANDS.canvas": {
+      "icon": "lucide-check-check",
+      "color": "green"
+    },
+    "DGS MATEMATİK.md": {
+      "icon": "lucide-plus-circle",
+      "color": "red"
+    },
+    "English": {
+      "icon": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "unsynced": [
+        "62b96c668deaf32d"
+      ]
+    },
+    "Files": {
+      "icon": "lucide-files",
+      "color": "purple",
+      "unsynced": [
+        "62b96c668deaf32d"
+      ]
+    },
+    "Kitaplar": {
+      "icon": "📚",
+      "color": "cyan",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "Tools": {
+      "icon": "lucide-pen-tool",
+      "color": "red",
+      "unsynced": [
+        "62b96c668deaf32d"
+      ]
+    },
+    "University": {
+      "icon": "lucide-university",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/AGU": {
+      "icon": "lucide-university",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ],
+      "color": "green"
+    },
+    "University/AGU/IP TABLES.canvas": {
+      "icon": "lucide-network",
+      "color": "red"
+    },
+    "University/AGU/IPTables.md": {
+      "icon": "lucide-brick-wall",
+      "color": "purple"
+    },
+    "University/AGU/_AGU.md": {
+      "color": "green",
+      "icon": "lucide-bug"
+    },
+    "University/AGU/imagenes": {
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ],
+      "icon": "lucide-images"
+    },
+    "University/AGU/imagenes/IPTables.png": {
+      "color": "green"
+    },
+    "University/AGU/imagenes/iptables.pdf": {
+      "icon": "lucide-brick-wall",
+      "color": "purple"
+    },
+    "University/BAP": {
+      "icon": "lucide-university",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/BAP/BAP.canvas": {
+      "icon": "lucide-network",
+      "color": "red"
+    },
+    "University/BAP/BAP.md": {
+      "icon": "lucide-chart-network",
+      "color": "green"
+    },
+    "University/BAP/imagenes": {
+      "icon": "lucide-images",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ],
+      "color": "green"
+    },
+    "University/GDSY": {
+      "icon": "lucide-university",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ],
+      "color": "green"
+    },
+    "University/GDSY/GDSY.md": {
+      "icon": "🦽",
+      "color": "green"
+    },
+    "University/GDSY/imagenes": {
+      "icon": "lucide-images",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/GY": {
+      "icon": "lucide-university",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/GY/GY.md": {
+      "icon": "⛑️",
+      "color": "green"
+    },
+    "University/KAL": {
+      "icon": "lucide-university",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/KAL/ADFGVX Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Affine Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Base64.md": {
+      "icon": "lucide-code-xml",
+      "color": "green"
+    },
+    "University/KAL/CT Saldırısı.md": {
+      "icon": "lucide-sword",
+      "color": "red"
+    },
+    "University/KAL/Hill Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/KAL.canvas": {
+      "icon": "lucide-network",
+      "color": "red"
+    },
+    "University/KAL/One-Time Pad Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Playfair Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Polybius Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/ROT13 Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Sezar Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/Vigenère Algoritması.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/_KAL.md": {
+      "icon": "lucide-network",
+      "color": "green"
+    },
+    "University/KAL/imagenes": {
+      "icon": "lucide-images",
+      "color": "green",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "University/ST": {
+      "icon": "lucide-university",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ],
+      "color": "green"
+    },
+    "University/ST/_ST.md": {
+      "icon": "lucide-computer",
+      "color": "green"
+    },
+    "XENNT ZODIUM": {
+      "icon": "lucide-codesandbox",
+      "color": "orange",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "imagenes": {
+      "icon": "lucide-images",
+      "color": "purple",
+      "unsynced": [
+        "62b96c668deaf32d"
+      ]
+    },
+    "vulnerability searching/ccna1/Course SGA3 - CCNA1 - Bilgisayar Aglarina Giris - A-01.mp4": {
+      "icon": "🎥",
+      "color": "green"
+    },
+    "vulnerability searching/ccna1/Course SGA3 - CCNA1 - Bilgisayar Aglarina Giris - A-02.mp4": {
+      "icon": "🎥",
+      "color": "green"
+    },
+    "vulnerability searching/ccna1/Course SGA3 - CCNA1 - Bilgisayar Aglarina Giris - A-03.mp4": {
+      "icon": "🎥",
+      "color": "green"
+    },
+    "vulnerability searching/ccna1/Course SGA3 - CCNA1 - Bilgisayar Aglarina Giris - A.mp4": {
+      "icon": "🎥",
+      "color": "green"
+    },
+    "z_Templates": {
+      "icon": "lucide-layout-template",
+      "color": "red",
+      "unsynced": [
+        "27a392cbbabbc555",
+        "62b96c668deaf32d"
+      ]
+    },
+    "z_Templates/Günlük Notlar.md": {
+      "icon": "lucide-calendar-days",
+      "color": "red"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": [
+    {
+      "id": "Vxrft",
+      "name": "Calendar",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "Calendar"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-calendar-days",
+      "color": "red"
+    }
+  ]
+}

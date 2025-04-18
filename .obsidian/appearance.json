@@ -1,0 +1,18 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Arial Black",
+  "baseFontSizeAction": true,
+  "textFontFamily": "American Typewriter",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "accentColor": "#8b9eea",
+  "monospaceFontFamily": "Source Code Pro",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "dashbord",
+    "vault-image",
+    "ReadLineLength"
+  ]
+}

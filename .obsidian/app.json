@@ -1,0 +1,30 @@
+{
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 90
+  },
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "tabSize": 6,
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./imagenes",
+  "vimMode": false,
+  "uriCallbacks": true,
+  "autoPairBrackets": true,
+  "foldIndent": true,
+  "foldHeading": true
+}

@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#c9c9c9",
+      "url": "https://calendar.google.com/calendar/ical/alpulkegul%40gmail.com/private-bddcc4448d9fbb17e952203fd4d493e3/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridDay",
+    "mobile": "timeGridDay"
+  },
+  "timeFormat24h": false
+}

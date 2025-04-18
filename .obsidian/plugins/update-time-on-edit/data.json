@@ -1,0 +1,29 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "Güncelleme Tarihi",
+  "headerCreated": "Oluşturma Tarihi",
+  "minMinutesBetweenSaves": 30,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "XENNT ZODIUM/Şablonlar/Not Şablonu.md": "891b66fca198ec0888f6a2e03261e3203b2d131283c83acba4f0c98fbb973983",
+    "XENNT ZODIUM/Şablonlar/İçerik Haritası.md": "3b8cf7fcaf4bb5fccb5efa29dd208c99a5d583d0d5dca00af81ec477434e7a3a",
+    "XENNT ZODIUM/Şablonlar/-Kitap Özeti-{iktidar}.md": "86d29915a564d648b90be9f0407d178af28e0a76107feeb3a85e87db83db80c4",
+    "University/GDCU/GDCU.md": "876b4777b7530a5928f965b26710e9da01c5ed64ee1f0dca8db34d05ca2c04cb",
+    "English/İngilizce Seri.md": "136da5f1760ea8b19957457bc177295af2af146546245e1165fcd382d19df018",
+    "English/English.md": "70c8fa0df0ee9ac2bc09eeadb34a18b5c9c42956d08b9e1953a3e4716bb31c8d",
+    "Active Directory.md": "e3e5608ea98320255ba75df88ace053f4e593af6ef5f674ee5906a44b6c29a90",
+    "DGS MATEMATİK.md": "abce356e9b0630d57bb42027501e6ac1c1979e68984537e1ceea4eaeed7de558",
+    "Geçmiş Dönem Sınav Soruları.md": "6151d88f8b06fbc190c67b5b2b5134c88f91d037bfca259944baf06cb3d3b973",
+    "Soru Analizleri.md": "c60ba66c6a37351e19a1a7b802bb5d93bf49977759192eaaaeb3ee39d68c826f",
+    "Biyografiler.md": "102b99bd781d8ccd9c415fc73f0d0e2d786432333646948e8b1e4747131de4b5",
+    "Kevin Mitnick.md": "d9d715f4dafe7c2441567b2d0dfbd2bdbea78b5f9f805b74515f43f61a049e02",
+    "University/BAP/BAP.md": "3ce4ea69588580425cbee8fd28c7e46808e1619d20352aa5fe03324ff61fb4cc",
+    "University/ST/_ST.md": "ba8d9ef643c467a5ea41f9899694dac44b99effcba4927d8150746a522092fa5",
+    "Crypto_Algorithms/performance_tests/complexity_notes.md": "c3833a91ed26aa1557f8c21fc1bdd0e874cdb45608d4692778cfb02572ec820a",
+    "Crypto_Algorithms/README.md": "0d0e2649295c4efeb9e314c20aacba4b2d7559ae7834731faf6ca2a54a848946",
+    "Crypto_Algorithms/kalproject/Welcome.md": "f1c90f5549e9613ed9a8f5805054b0cc773b7dd99b4576580d822e16fd5c6558"
+  }
+}

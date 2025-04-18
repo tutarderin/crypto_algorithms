@@ -1,0 +1,1 @@
+# Şifrelenmiş verinin boyut analizleri
