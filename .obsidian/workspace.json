@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ECC/documentation/helper.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -202,6 +202,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Help-Utils/Helper.md",
+    "ECC/documentation/helper.md",
     "ECC/sifreli-ornek_ECC.enc",
     "ECC/ecc_public_key.pem",
     "ECC/ecc_private_key.pem",
@@ -213,8 +215,6 @@
     "requirements.md",
     "RSA/Documentation/Helper.md",
     "performance_tests/complexity_notes.md",
-    "Help-Utils/Helper.md",
-    "ECC/documentation/helper.md",
     "demo_scripts/Documentation/Helper.md",
     "AES/documentation/Helper.md",
     "Crypto_Algorithms/mind-map.canvas",
@@ -225,7 +225,6 @@
     "Crypto_Algorithms/performance_tests/complexity_notes.md",
     "Crypto_Algorithms/performance_tests/size_test.py",
     "Crypto_Algorithms/performance_tests/speed_test.py",
-    "Crypto_Algorithms/demo_scripts/run_all_demos.sh",
     "University/KAL/KAL.canvas",
     "CyberSecurity/COMMANDS.canvas",
     "University/KAL/Affine Algoritması.md",
