@@ -11,17 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "mind-map.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -290,
-                  "zoom": -0.8878896336784625
-                }
+                "file": "ECC/documentation/helper.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "mind-map"
+              "icon": "lucide-file",
+              "title": "helper"
             }
           }
         ]
@@ -204,8 +202,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "LICENSE.md",
+    "ECC/sifreli-ornek_ECC.enc",
+    "ECC/ecc_public_key.pem",
+    "ECC/ecc_private_key.pem",
+    "et HEAD~1",
+    "Help-Utils/__init__.py",
     "mind-map.canvas",
+    "LICENSE.md",
     "README.md",
     "requirements.md",
     "RSA/Documentation/Helper.md",
@@ -223,10 +226,6 @@
     "Crypto_Algorithms/performance_tests/size_test.py",
     "Crypto_Algorithms/performance_tests/speed_test.py",
     "Crypto_Algorithms/demo_scripts/run_all_demos.sh",
-    "Crypto_Algorithms/demo_scripts/Documentation/helper.txt",
-    "Crypto_Algorithms/demo_scripts/Documentation",
-    "Crypto_Algorithms/demo_scripts/documentation",
-    "Crypto_Algorithms/ECC/documentation/helper.txt",
     "University/KAL/KAL.canvas",
     "CyberSecurity/COMMANDS.canvas",
     "University/KAL/Affine Algoritması.md",
